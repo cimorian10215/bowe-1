@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 餘波盪漾
+title: LOFFER
 date: 2019-06-02
-Author: 夢中夢
-categories: 1
+Author: 来自中世界
+categories: 
 tags: [sample, document]
 comments: true
 ---
-
 
 THE DECADE
 
