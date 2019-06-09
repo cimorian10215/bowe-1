@@ -3,13 +3,12 @@ layout: post
 title: 余波荡漾
 date: 2019-06-02
 Author: 夢中夢
-categories: 
+categories: 1
 tags: [sample, document]
 comments: true
 ---
 
 THE DECADE
-
 
 卡黄篇 ⦁ 余波荡漾
 
@@ -526,9 +525,6 @@ SNH48具体什么时候红起来的我也不太清楚，感觉上似乎是有那
 
 
 在那一方密不透风的欢呼和喧闹里，我轻而易举看见了她们少年时的模样。看见懵懂不更事的女孩向着她的梦想伸出手去，热忱、无忌、满怀憧憬。犹似未熟成的青果掉进一池春水，余波直到今天仍在荡漾。
-
-
-
 
 
 余波荡漾  完
