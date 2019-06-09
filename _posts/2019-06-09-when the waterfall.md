@@ -1,4 +1,4 @@
-```
+---
 layout: post
 title: LOFFER文档
 date: 2019-06-02
@@ -7,7 +7,7 @@ categories: 1
 tags: [sample, document]
 comments: true
 ---
-```
+
 
 THE DECADE
 
