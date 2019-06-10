@@ -1,10 +1,9 @@
 ---
 layout: post
-title: 余波荡漾
-date: 2019-06-02
-Author: 夢中夢
-categories: 1
-tags: [sample, document]
+title: "余波荡漾"
+description: "卡黄"
+category: articles
+tags: [Blog]
 comments: true
 ---
 
