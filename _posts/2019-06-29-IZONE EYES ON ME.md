@@ -7,7 +7,6 @@ tags: [IZone,演唱會]
 comments: true
 ---
 
-###  IZONE EYES ON ME IN Taipei
 
 是真的很好看，從各方面來說，看完真人最大的感受，除了真的每個人都好好看之外就是太瘦了，真的好瘦。
 
