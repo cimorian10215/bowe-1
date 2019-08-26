@@ -1,9 +1,9 @@
 ---
 layout: post
-title: I*ZONE EYES ON ME IN Taipei
+title: IZONE EYES ON ME IN Taipei
 date: 2019-06-29
 categories: 콘서트
-tags: [IZone,演唱會]
+tags: [IZONE,演唱會]
 comments: true
 ---
 
