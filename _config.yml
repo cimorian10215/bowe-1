@@ -9,6 +9,11 @@ name: PHANTASIA
 # 描述/签名
 description: 一个博客
 
+# 字体测试
+lang: zh-Hant
+lang: zh-TW
+lang: zh-HK
+
 #
 # 下面的设定都是可选的
 #
