@@ -10,9 +10,7 @@ name: PHANTASIA
 description: 一个博客
 
 # 字体测试
-lang: zh-Hant
-lang: zh-TW
-lang: zh-HK
+lang: zh-Hans
 
 #
 # 下面的设定都是可选的
